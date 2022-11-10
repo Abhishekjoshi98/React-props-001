@@ -12,7 +12,7 @@ function App() {
     return (
       <>
         <div style={main_styling}>
-          <Card title="#FF6663" color="PINK" hashcode="PINK" />
+          <Card title="#FF6663" color="PINK" hashcode="#FF6663" />
           <Card title="#333333" color="GRAY" hashcode="#333333" />
           <Card title="#000000" color="BLACK" hashcode="#000000" />
           <Card title="#38BB14" color="GREEN" hashcode="#38BB14" />
